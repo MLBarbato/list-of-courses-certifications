@@ -23,4 +23,4 @@ Below is a list of the courses I completed.
 
 #### Java
 
-- Batismo de Java - [Java10X] Duration: 15h :paperclip: [here]
+- Batismo de Java - [Java10X] Duration: 15h :paperclip: [here](Certificates/Certificado%20Java10x%20-%20Curso%20de%20Java.pdf)
