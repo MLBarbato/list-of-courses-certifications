@@ -24,3 +24,12 @@ Below is a list of the courses I completed.
 #### Java
 
 - Batismo de Java - [Java10X] Duration: 15h :paperclip: [here](Certificates/Certificado%20Java10x%20-%20Curso%20de%20Java.pdf)
+
+### Spring
+- APIs com SpringBoot - [MJV Academy] Duration: 3h 📎 [here](Certificates/APIs-com-SpringBoot.pdf)
+
+### Security
+- Desenvolvimento Seguro - [MJV Academy] Duration: 2h 📎 [here](Certificates/Desenvolvimento-Seguro.pdf)
+
+### IA
+- Formação IA MJV - [MJV Academy] Duration: 4h 📎 [here](Certificates/Formação-IA-MJV.pdf)
